@@ -1,0 +1,7 @@
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\bin\Debug\ShippingCost.exe.config
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\bin\Debug\ShippingCost.exe
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\bin\Debug\ShippingCost.pdb
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\obj\Debug\ShippingCost.csprojAssemblyReference.cache
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\obj\Debug\ShippingCost.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\obj\Debug\ShippingCost.exe
+C:\Users\Joseph Leonard\source\repos\ShippingCost\ShippingCost\obj\Debug\ShippingCost.pdb

@@ -1,0 +1,6 @@
+C:\Users\Joseph Leonard\source\repos\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.exe.config
+C:\Users\Joseph Leonard\source\repos\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.exe
+C:\Users\Joseph Leonard\source\repos\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.pdb
+C:\Users\Joseph Leonard\source\repos\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Leonard\source\repos\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.exe
+C:\Users\Joseph Leonard\source\repos\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.pdb
