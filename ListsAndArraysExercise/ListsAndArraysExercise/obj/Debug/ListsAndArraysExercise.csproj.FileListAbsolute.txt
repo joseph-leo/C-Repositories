@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\bin\Debug\ListsAndArraysExercise.exe.config
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\bin\Debug\ListsAndArraysExercise.exe
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\bin\Debug\ListsAndArraysExercise.pdb
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\obj\Debug\ListsAndArraysExercise.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\obj\Debug\ListsAndArraysExercise.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\obj\Debug\ListsAndArraysExercise.exe
+C:\Users\DBXGR\source\repos\ListsAndArraysExercise\ListsAndArraysExercise\obj\Debug\ListsAndArraysExercise.pdb
