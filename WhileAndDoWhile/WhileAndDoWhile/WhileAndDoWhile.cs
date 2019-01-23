@@ -28,7 +28,7 @@ namespace WhileAndDoWhile
             Console.WriteLine("What is the capital of Montana?");
             string capital = Console.ReadLine().ToLower();
             string answer = "helena";
-            bool correct = false;
+            bool correct = capital == answer;
 
             while (!correct)
             {
