@@ -21,7 +21,7 @@ namespace ClassAndMethods
 
                     int subtract = MathOps.SubtractTwo(x);
                     int multiply = MathOps.MultiplyByFour(x);
-                    int power = MathOps.MultiplyByFour(x);
+                    int power = MathOps.PowerOfTwo(x);
 
                     Console.WriteLine(x + " - 2 = " + subtract);
                     Console.WriteLine(x + " * 4 = " + multiply);

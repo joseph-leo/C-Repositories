@@ -5,3 +5,10 @@ C:\Users\DBXGR\source\repos\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMe
 C:\Users\DBXGR\source\repos\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.csproj.CoreCompileInputs.cache
 C:\Users\DBXGR\source\repos\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.exe
 C:\Users\DBXGR\source\repos\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.pdb
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\bin\Debug\ClassAndMethods.exe.config
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\bin\Debug\ClassAndMethods.exe
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\bin\Debug\ClassAndMethods.pdb
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.csprojAssemblyReference.cache
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.exe
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethods\ClassAndMethods\obj\Debug\ClassAndMethods.pdb

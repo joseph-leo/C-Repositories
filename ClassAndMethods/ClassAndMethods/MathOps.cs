@@ -20,7 +20,7 @@ namespace ClassAndMethods
         }
         public static int PowerOfTwo(int x)
         {
-            int total = x ^ 2;
+            int total = Convert.ToInt32(Math.Pow(x, 2));
             return total;
         }
     }
