@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\bin\Debug\IterationExcercise.exe.config
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\bin\Debug\IterationExcercise.exe
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\bin\Debug\IterationExcercise.pdb
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\obj\Debug\IterationExcercise.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\obj\Debug\IterationExcercise.exe
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\obj\Debug\IterationExcercise.pdb
+C:\Users\DBXGR\source\repos\IterationExcercise\IterationExcercise\obj\Debug\IterationExcercise.csprojAssemblyReference.cache
