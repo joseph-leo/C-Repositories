@@ -16,7 +16,6 @@ namespace OverloadMethodAndOutputParamter
         public static void DivideByTwo(int x, out int y)
         {
             y = x / 2;
-            Console.WriteLine("~" + y);
         }
     }
 }

@@ -16,6 +16,9 @@ namespace OverloadMethodAndOutputParamter
             Operations.DivideByTwo(x);
 
             Operations.DivideByTwo(x, out int y);
+            int z = y;
+
+            Console.WriteLine(z);
 
             Console.Read();
         }
