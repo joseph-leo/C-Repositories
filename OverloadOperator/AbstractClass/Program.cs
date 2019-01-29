@@ -10,16 +10,25 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee
+            Employee employee1 = new Employee
             {
-                FirstName = "Sample",
-                LastName = "Student"
+                FirstName = "Joe",
+                LastName = "Leonard",
+                Id = 1
             };
 
-            IQuittable quittable = new Employee();
+            Employee employee2 = new Employee()
+            {
+                FirstName = "Bob",
+                LastName = "Sanders",
+                Id = 1
+            };
 
-            employee.SayName();
-            quittable.Quit();
+            employee1.SayName();
+            employee2.SayName();
+
+            Console.WriteLine("Do these employees share an ID #?");
+            Console.WriteLine(employee1 == employee2);
 
             Console.Read();
         }
