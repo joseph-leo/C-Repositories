@@ -4,20 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClass
+namespace StructExample
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee
-            {
-                FirstName = "Sample",
-                LastName = "Student"
-            };
-
-            employee.SayName();
-
+            Number number = new Number() { Amount = 2.0912m };
+            Console.WriteLine(number.Amount);
             Console.Read();
         }
     }
