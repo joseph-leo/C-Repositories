@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\bin\Debug\LambdaExample.exe.config
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\bin\Debug\LambdaExample.exe
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\bin\Debug\LambdaExample.pdb
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\obj\Debug\LambdaExample.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\obj\Debug\LambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\obj\Debug\LambdaExample.exe
+C:\Users\DBXGR\source\repos\LambdaExample\LambdaExample\obj\Debug\LambdaExample.pdb
