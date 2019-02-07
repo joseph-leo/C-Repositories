@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Blackjack
 {
@@ -13,7 +14,7 @@ namespace Blackjack
             Console.WriteLine("Welcome. What's your name");
             string playerName = Console.ReadLine();
 
-            Console.WriteLine("And how much monet did you bring today");
+            Console.WriteLine("And how much money did you bring today");
             int bank = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Hello, {0}. Would you like to join a game of Blackjack?", playerName);

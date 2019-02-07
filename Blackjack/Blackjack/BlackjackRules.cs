@@ -25,18 +25,62 @@ namespace Blackjack
             [Face.Ace] = 1
         };
 
-        public static int[] GetPossibleHandValues(List<Card> Hand)
+        private static int[] GetPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
-            int[] result = new int[Hand.Count];
+            int[] result = new int[aceCount + 1 ];
             int value = Hand.Sum(x => _cardValues[x.Face]);
             result[0] = value;
+
             if (result.Length == 1) return result;
+
+            for (int i = 1; i < result.Length; i++)
+            {
+                value += (i * 10);
+                result[i] = value;
+            }
+            return result;
         }
 
         public static bool CheckForBlackjack(List<Card> Hand)
         {
+            int[] possibleValues = GetPossibleHandValues(Hand);
+            int value = possibleValues.Max();
+            if (value == 21) return true;
+            else return false;
+        }
 
+        public static bool IsBusted(List<Card> Hand)
+        {
+            int value = GetPossibleHandValues(Hand).Min();
+            if (value > 21) return true;
+            else return false;
+        }
+
+        public static bool ShouldDealerStay(List<Card> Hand)
+        {
+            int[] possibleHandValues = GetPossibleHandValues(Hand);
+            foreach (int value in possibleHandValues)
+            {
+                if (value > 16 && value < 22)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
+        {
+            int[] playerResults = GetPossibleHandValues(PlayerHand);
+            int[] dealerResults = GetPossibleHandValues(DealerHand);
+
+            int playerScore = playerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 22).Max();
+
+            if (playerScore > dealerScore) return true;
+            else if (playerScore < dealerScore) return false;
+            else return null;
         }
     }
 }
