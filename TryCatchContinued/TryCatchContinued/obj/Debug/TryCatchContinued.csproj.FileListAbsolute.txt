@@ -1,0 +1,7 @@
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\bin\Debug\TryCatchContinued.exe.config
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\bin\Debug\TryCatchContinued.exe
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\bin\Debug\TryCatchContinued.pdb
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\obj\Debug\TryCatchContinued.csprojAssemblyReference.cache
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\obj\Debug\TryCatchContinued.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\obj\Debug\TryCatchContinued.exe
+C:\Users\Joseph Leonard\source\repos\TryCatchContinued\TryCatchContinued\obj\Debug\TryCatchContinued.pdb
