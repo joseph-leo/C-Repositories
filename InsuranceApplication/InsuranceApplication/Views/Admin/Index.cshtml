@@ -1,0 +1,21 @@
+﻿@using InsuranceApplication.ViewModels
+@model List<AdminVm>
+
+<div class="row">
+    @foreach (var entry in Model)
+    {
+    <div class="col-lg-12 col-md-10 col-sm-6">
+        <ul>
+            <li>
+                @entry.FirstName @entry.LastName
+            </li>
+            <li>
+                @entry.EmailAddress
+            </li>
+            <li>
+                @entry.Quote.ToString("C")
+            </li>
+        </ul>
+    </div> 
+    }
+</div>
