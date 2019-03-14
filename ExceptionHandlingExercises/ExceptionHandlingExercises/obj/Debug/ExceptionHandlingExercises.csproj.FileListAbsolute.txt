@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\bin\Debug\ExceptionHandlingExercises.exe.config
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\bin\Debug\ExceptionHandlingExercises.exe
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\bin\Debug\ExceptionHandlingExercises.pdb
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\obj\Debug\ExceptionHandlingExercises.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\obj\Debug\ExceptionHandlingExercises.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\obj\Debug\ExceptionHandlingExercises.exe
+C:\Users\DBXGR\source\repos\ExceptionHandlingExercises\ExceptionHandlingExercises\obj\Debug\ExceptionHandlingExercises.pdb

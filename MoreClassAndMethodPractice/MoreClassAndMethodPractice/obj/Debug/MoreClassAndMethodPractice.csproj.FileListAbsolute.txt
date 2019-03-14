@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\bin\Debug\MoreClassAndMethodPractice.exe.config
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\bin\Debug\MoreClassAndMethodPractice.exe
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\bin\Debug\MoreClassAndMethodPractice.pdb
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\obj\Debug\MoreClassAndMethodPractice.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\obj\Debug\MoreClassAndMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\obj\Debug\MoreClassAndMethodPractice.exe
+C:\Users\DBXGR\source\repos\MoreClassAndMethodPractice\MoreClassAndMethodPractice\obj\Debug\MoreClassAndMethodPractice.pdb

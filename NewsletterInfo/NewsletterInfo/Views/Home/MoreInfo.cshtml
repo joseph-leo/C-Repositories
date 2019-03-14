@@ -1,0 +1,14 @@
+﻿@using NewsletterInfo.Models
+@using NewsletterInfo.ViewModels
+
+@model List<CompleteInfo>
+
+@foreach (var entry in Model)
+{
+    <p>@entry.FirstName @entry.LastName</p>  
+    <p>ID #: @entry.Id</p>
+    <p>Removed on: @entry.Removed</p>
+}
+
+
+

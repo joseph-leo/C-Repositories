@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\StructExample\StructExample\bin\Debug\StructExample.exe.config
+C:\Users\DBXGR\source\repos\StructExample\StructExample\bin\Debug\StructExample.exe
+C:\Users\DBXGR\source\repos\StructExample\StructExample\bin\Debug\StructExample.pdb
+C:\Users\DBXGR\source\repos\StructExample\StructExample\obj\Debug\StructExample.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\StructExample\StructExample\obj\Debug\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\StructExample\StructExample\obj\Debug\StructExample.exe
+C:\Users\DBXGR\source\repos\StructExample\StructExample\obj\Debug\StructExample.pdb

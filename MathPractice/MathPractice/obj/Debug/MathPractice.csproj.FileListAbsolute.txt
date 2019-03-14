@@ -1,0 +1,7 @@
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\bin\Debug\MathPractice.exe.config
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\bin\Debug\MathPractice.exe
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\bin\Debug\MathPractice.pdb
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\obj\Debug\MathPractice.exe
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\obj\Debug\MathPractice.pdb
+C:\Users\Joseph Leonard\source\repos\MathPractice\MathPractice\obj\Debug\MathPractice.csprojAssemblyReference.cache

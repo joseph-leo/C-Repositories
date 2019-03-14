@@ -1,0 +1,14 @@
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.exe.config
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.exe
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.pdb
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.exe
+C:\Users\DBXGR\source\repos\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.pdb
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.exe.config
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.exe
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\WhileAndDoWhile.pdb
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.csprojAssemblyReference.cache
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.exe
+C:\Users\DBXGR\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\WhileAndDoWhile.pdb

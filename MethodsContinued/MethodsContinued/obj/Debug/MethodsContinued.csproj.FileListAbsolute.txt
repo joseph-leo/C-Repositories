@@ -1,0 +1,7 @@
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\bin\Debug\MethodsContinued.exe.config
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\bin\Debug\MethodsContinued.exe
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\bin\Debug\MethodsContinued.pdb
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\obj\Debug\MethodsContinued.csprojAssemblyReference.cache
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\obj\Debug\MethodsContinued.csproj.CoreCompileInputs.cache
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\obj\Debug\MethodsContinued.exe
+C:\Users\DBXGR\source\repos\MethodsContinued\MethodsContinued\obj\Debug\MethodsContinued.pdb
