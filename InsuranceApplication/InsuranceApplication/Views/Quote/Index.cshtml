@@ -1,0 +1,25 @@
+﻿<h2>Get a quote today!</h2>
+<div class="row mt">
+    @using (Html.BeginForm("AddQuote", "Quote", FormMethod.Post))
+    {
+        <p>First Name: </p><input name="FirstName" />
+        <p>Last Name: </p><input name="LastName" />
+        <p>Email Address: </p><input name="EmailAddress" />
+        <p>Date of Birth: </p><input name="BirthDay" />
+        <p>Car Year: </p><input name="Year" />
+        <p>Car Make: </p><input name="Make" />
+        <p>Car Model: </p><input name="Model" />
+        <p>Ever had a DUI? </p><input type="radio" name="Dui" value="true" /><h5 class="radio-inline">Yes</h5> <input type="radio" name="Dui" value="false" /><h5 class="radio-inline">No</h5>
+        <p>
+            How many speeding
+            tickets have you had?
+        </p><input name="Tickets" />
+        <p>
+            Full coverage or
+            liability?
+        </p><input type="radio" name="Coverage" value="full" /><h5 class="radio-inline">Full Coverage</h5> <input type="radio" name="Coverage" value="liability" /><h5 class="radio-inline">Liability Coverage</h5>
+        <button type="submit" class="btn btn-primary btn-block">Get a Quote</button>
+    }
+</div>
+
+
