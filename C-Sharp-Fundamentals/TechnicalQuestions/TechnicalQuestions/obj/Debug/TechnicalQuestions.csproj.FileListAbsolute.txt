@@ -1,0 +1,7 @@
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\bin\Debug\TechnicalQuestions.exe.config
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\bin\Debug\TechnicalQuestions.exe
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\bin\Debug\TechnicalQuestions.pdb
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\obj\Debug\TechnicalQuestions.csprojAssemblyReference.cache
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\obj\Debug\TechnicalQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\obj\Debug\TechnicalQuestions.exe
+C:\Users\Joseph Leonard\source\repos\TechnicalQuestions\TechnicalQuestions\obj\Debug\TechnicalQuestions.pdb
